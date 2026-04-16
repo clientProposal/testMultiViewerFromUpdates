@@ -12,5 +12,7 @@ If you keep selecting one window and then the other, you'll receive prompts to o
 ## LIMITATIONS IN 11.12.0
 
 Only 2 viewers supported
+
 Content editing not yet supported
+
 PDF only, spreadsheet and docx editors not yet supported
