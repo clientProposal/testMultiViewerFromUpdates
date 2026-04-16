@@ -21,4 +21,4 @@ PDF only, spreadsheet and docx editors not yet supported
 
 Other repo with things like PDF sanitization, handwriting recognition ICR, MSG/EML to PDF conversion:
 
-[Apryse Downloads page](https://dev.apryse.com/)
+[PDFNet 11.12.0](https://github.com/clientProposal/PDFNetWithUpdates)
